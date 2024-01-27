@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .controler {
+  max-width: 1200px;
+  padding: 0 20px;
+} */
+
+input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+}

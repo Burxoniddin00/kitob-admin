@@ -1,1 +1,1 @@
-export const API = 'http://localhost:8123/'
+export const API = 'https://system.kitob-mutolaa.uz/'
